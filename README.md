@@ -1,7 +1,7 @@
 # AI-Security
 # Transcending Adversarial Perturbations: Manifold-Aided Adversarial Examples with Legitimate Semantics</p>
 [![arXiv](https://img.shields.io/badge/arXiv-2402.03095-red)](https://arxiv.org/pdf/2402.03095.pdf)
-[![Code](https://img.shields.io/badge/MAELS.git-blue)](https://github.com/shuaili1027/MAELS.git)
+[![Code](https://img.shields.io/badge/Code-blue)](https://github.com/shuaili1027/MAELS.git)
 
 > **Transcending Adversarial Perturbations: Manifold-Aided Adversarial Examples with Legitimate Semantics**<br>
 > Shuai Li, Xiaoyu Jiang, Xiaoguang Ma <br>
